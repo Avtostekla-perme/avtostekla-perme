@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Avtostekla Perme - Car Glass Reservation",
+  "description": "Professional car glass repair and replacement landing page with AI-powered assistant and booking system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
